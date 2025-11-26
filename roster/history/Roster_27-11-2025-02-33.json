@@ -1,10 +1,11 @@
 [
   {
     "week": "24-11-2025",
-    "parsedTimestamp": "2025-11-26T18:04:41.582Z",
+    "parsedTimestamp": "2025-11-26T18:33:41.974Z",
     "data": [
       {
         "day": "Monday",
+        "date": "24-11-2025",
         "shifts": [
           {
             "name": "S1",
@@ -63,6 +64,11 @@
                 "assignType": "requested"
               },
               {
+                "type": "Rounding-2",
+                "person": "Phone",
+                "assignType": "requested"
+              },
+              {
                 "type": "QC-1",
                 "person": "Hamdan",
                 "assignType": "requested"
@@ -89,6 +95,11 @@
               {
                 "type": "Rounding-1",
                 "person": "Zakarya",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Phone",
                 "assignType": "requested"
               },
               {
@@ -204,6 +215,7 @@
       },
       {
         "day": "Tuesday",
+        "date": "25-11-2025",
         "shifts": [
           {
             "name": "S1",
@@ -330,6 +342,11 @@
                 "assignType": "requested"
               },
               {
+                "type": "Rounding-2",
+                "person": "Phone",
+                "assignType": "requested"
+              },
+              {
                 "type": "QC-1",
                 "person": "Bismi",
                 "assignType": "requested"
@@ -374,6 +391,7 @@
       },
       {
         "day": "Wednesday",
+        "date": "26-11-2025",
         "shifts": [
           {
             "name": "S1",
@@ -463,6 +481,11 @@
               {
                 "type": "Rounding-1",
                 "person": "Amr Khaled",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Phone",
                 "assignType": "requested"
               },
               {
@@ -578,6 +601,7 @@
       },
       {
         "day": "Thursday",
+        "date": "27-11-2025",
         "shifts": [
           {
             "name": "S1",
@@ -777,6 +801,7 @@
       },
       {
         "day": "Friday",
+        "date": "28-11-2025",
         "shifts": [
           {
             "name": "S1",
@@ -866,6 +891,11 @@
               {
                 "type": "Rounding-1",
                 "person": "Valen",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Phone",
                 "assignType": "requested"
               },
               {
@@ -981,6 +1011,7 @@
       },
       {
         "day": "Saturday",
+        "date": "29-11-2025",
         "shifts": [
           {
             "name": "S1",

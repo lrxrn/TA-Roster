@@ -29,6 +29,7 @@ The roster is parsed into the following JSON structure:
     "data": [
       {
         "day": "Monday",
+        "date": "24-11-2025",
         "shifts": [
           {
             "name": "S1",
@@ -64,6 +65,7 @@ The roster is parsed into the following JSON structure:
 | `parsedTimestamp` | `string` | ISO 8601 timestamp when roster was parsed (UTC) |
 | `data` | `array` | Array of daily rosters (Monday-Saturday) |
 | `data[].day` | `string` | Day of the week |
+| `data[].date` | `string` | Specific date for that day (DD-MM-YYYY format) |
 | `data[].shifts` | `array` | Array of shifts for that day |
 | `data[].shifts[].name` | `string` | Shift identifier (S1, S2, S3, etc.) |
 | `data[].shifts[].time` | `object` | Shift timing |

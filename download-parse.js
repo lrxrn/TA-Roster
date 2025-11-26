@@ -176,6 +176,7 @@ function parseDayRoster(worksheet, dateRow) {
     // Convert Excel date to JS Date and get day name
     const date = excelDateToJSDate(dateCell.v);
     const dayName = getDayName(date);
+    const dateFormatted = formatDate(date);
     
     // Header row is immediately after date row
     const headerRow = dateRow + 1;
@@ -276,7 +277,7 @@ function parseDayRoster(worksheet, dateRow) {
         currentRow++;
     }
     
-    return shifts.length > 0 ? { day: dayName, shifts } : null;
+    return shifts.length > 0 ? { day: dayName, date: dateFormatted, shifts } : null;
 }
 
 // Wait for a file to be downloaded (check for new or modified files in the folder)
