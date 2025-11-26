@@ -11,6 +11,8 @@
   "description": "Download and parse roster files from SharePoint",
   "dependencies": {
     "chromedriver": "^142.0.3",
-    "selenium-webdriver": "^4.38.0"
+    "exceljs": "^4.4.0",
+    "selenium-webdriver": "^4.38.0",
+    "xlsx": "^0.18.5"
   }
 }
