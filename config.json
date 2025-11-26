@@ -6,8 +6,7 @@
     "historyFolderName": "history"
   },
   "cleanup": {
-    "retentionDays": 60,
-    "retentionMonths": 2
+    "retentionDays": 60
   },
   "download": {
     "timeoutMs": 120000,

@@ -250,8 +250,8 @@ function parseDayRoster(worksheet, dateRow) {
             if (cell && cell.v) {
                 const personName = cell.v.toString().trim();
                 
-                // Skip if name is empty or "Phone"
-                if (personName && personName.toLowerCase() !== 'phone') {
+                // Skip if name is empty
+                if (personName) {
                     // Check if cell has yellow background
                     const isAssigned = isYellowCell(cell);
                     
