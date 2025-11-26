@@ -1,0 +1,1027 @@
+[
+  {
+    "week": "24-11-2025",
+    "parsedTimestamp": "2025-11-26T18:04:41.582Z",
+    "data": [
+      {
+        "day": "Monday",
+        "shifts": [
+          {
+            "name": "S1",
+            "time": {
+              "start": "08:15",
+              "end": "10:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Aseel",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Nazmir",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Srini",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Hamdan",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Shamiur",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S2",
+            "time": {
+              "start": "10:30",
+              "end": "12:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Srini",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Haifa",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Awad",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Hamdan",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S3",
+            "time": {
+              "start": "12:30",
+              "end": "14:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Bismi",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Zakarya",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Ebad",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S4",
+            "time": {
+              "start": "14:30",
+              "end": "16:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Michael",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Arshia",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Bismi",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Yip",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S5",
+            "time": {
+              "start": "16:30",
+              "end": "18:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Hamdan",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Haifa",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Michael",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Arshia",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Bismi",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S6",
+            "time": {
+              "start": "18:30",
+              "end": "21:30"
+            },
+            "assignments": [
+              {
+                "type": "Rounding-1",
+                "person": "Zakarya",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Donaley",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-3",
+                "person": "Nahyan",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Amr",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-2",
+                "person": "Irneen",
+                "assignType": "requested"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "shifts": [
+          {
+            "name": "S1",
+            "time": {
+              "start": "08:15",
+              "end": "10:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Shamiur",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Hamdan",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Ebad",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Donaley",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Yip",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S2",
+            "time": {
+              "start": "10:30",
+              "end": "12:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Hammad",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Umme",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Esha",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Arshia",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Hamdan",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S3",
+            "time": {
+              "start": "12:30",
+              "end": "14:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Valen",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Nazmir",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Umme",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Haifa",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Raghad",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S4",
+            "time": {
+              "start": "14:30",
+              "end": "16:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Raghad",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Haifa",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Bismi",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S5",
+            "time": {
+              "start": "16:30",
+              "end": "18:10"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Hamdan",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Raghad",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Bismi",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Haifa",
+                "assignType": "requested"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "shifts": [
+          {
+            "name": "S1",
+            "time": {
+              "start": "08:15",
+              "end": "10:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Nazmir",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Srini",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Shamiur",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Amr Khaled",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Irneen",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S2",
+            "time": {
+              "start": "10:30",
+              "end": "12:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Umme",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Esha",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Bismi",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Amr Khaled",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S3",
+            "time": {
+              "start": "12:30",
+              "end": "14:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Raghad",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Amr Khaled",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Esha",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S4",
+            "time": {
+              "start": "14:30",
+              "end": "16:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Haifa",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Amr Khaled",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Donaley",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Omar",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S5",
+            "time": {
+              "start": "16:30",
+              "end": "18:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Ramiz",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Arshia",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Haifa",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Douaa",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Amr",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S6",
+            "time": {
+              "start": "18:30",
+              "end": "21:30"
+            },
+            "assignments": [
+              {
+                "type": "Rounding-1",
+                "person": "Akla",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Omar Saeed",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-3",
+                "person": "Zakarya",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Ramiz",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-2",
+                "person": "Haifa",
+                "assignType": "requested"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "shifts": [
+          {
+            "name": "S1",
+            "time": {
+              "start": "08:15",
+              "end": "10:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Ebad",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Donaley",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Irneen",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Hamdan",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S2",
+            "time": {
+              "start": "10:30",
+              "end": "12:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Hammad",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Abrar",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Eanan",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Arshia",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Arsheyan",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S3",
+            "time": {
+              "start": "12:30",
+              "end": "14:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Umme",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Amr Khaled",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Nazmir",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Zakarya",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Abrar",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S4",
+            "time": {
+              "start": "14:30",
+              "end": "16:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Eanan",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Raghad",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Michael",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Amr Khaled",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Hamdan",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S5",
+            "time": {
+              "start": "16:30",
+              "end": "18:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Michael",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Hamdan",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Haifa",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Ebad",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Arshia",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S6",
+            "time": {
+              "start": "18:30",
+              "end": "21:30"
+            },
+            "assignments": [
+              {
+                "type": "Rounding-1",
+                "person": "Akla",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Sazid",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-3",
+                "person": "Nahyan",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Michael",
+                "assignType": "requested"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "shifts": [
+          {
+            "name": "S1",
+            "time": {
+              "start": "08:15",
+              "end": "10:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Raghad",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Amr Khaled",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Donaley",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Douaa",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Valen",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S2",
+            "time": {
+              "start": "10:30",
+              "end": "12:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Michael",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Abrar",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Esha",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Raghad",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Eanan",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S3",
+            "time": {
+              "start": "12:30",
+              "end": "14:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Umme",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Shukri",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Valen",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Raghad",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S4",
+            "time": {
+              "start": "14:30",
+              "end": "16:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Eanan",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Raghad",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Douaa",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Donaley",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S5",
+            "time": {
+              "start": "16:30",
+              "end": "18:30"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre-1",
+                "person": "Ramiz",
+                "assignType": "requested"
+              },
+              {
+                "type": "TechCentre-2",
+                "person": "Raghad",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-1",
+                "person": "Ebad",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Lin Htin",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Arsheyan",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S6",
+            "time": {
+              "start": "18:30",
+              "end": "21:30"
+            },
+            "assignments": [
+              {
+                "type": "Rounding-1",
+                "person": "Ramiz",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-2",
+                "person": "Ebad",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding-3",
+                "person": "Arshia",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-1",
+                "person": "Omar Saeed",
+                "assignType": "requested"
+              },
+              {
+                "type": "QC-2",
+                "person": "Nahyan",
+                "assignType": "requested"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "shifts": [
+          {
+            "name": "S1",
+            "time": {
+              "start": "08:00",
+              "end": "13:00"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre",
+                "person": "Eanan",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding",
+                "person": "Ramiz",
+                "assignType": "requested"
+              }
+            ]
+          },
+          {
+            "name": "S2",
+            "time": {
+              "start": "13:00",
+              "end": "18:00"
+            },
+            "assignments": [
+              {
+                "type": "TechCentre",
+                "person": "Tanvir",
+                "assignType": "requested"
+              },
+              {
+                "type": "Rounding",
+                "person": "Shamiur",
+                "assignType": "requested"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
