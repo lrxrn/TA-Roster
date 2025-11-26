@@ -1,0 +1,51 @@
+name: Download Roster
+
+on:
+  # Run every Sunday at 6:00 PM (18:00) UTC
+  # Adjust timezone offset as needed - this cron is in UTC
+  # For Malaysia (UTC+8), 6PM local = 10AM UTC
+  schedule:
+    - cron: '0 10 * * 0'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  download-roster:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+      
+      - name: Install ChromeDriver
+        run: |
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
+          npm install chromedriver@latest
+      
+      - name: Run download script
+        run: node download.js
+        env:
+          DISPLAY: ':99'
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add roster/
+          git diff --staged --quiet || git commit -m "Update roster - $(date +'%Y-%m-%d %H:%M')"
+          git push

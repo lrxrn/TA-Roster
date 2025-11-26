@@ -1,0 +1,16 @@
+{
+  "name": "parse-roster-test",
+  "version": "1.0.0",
+  "main": "parse.js",
+  "scripts": {
+    "download": "node download.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lrxrn",
+  "license": "ISC",
+  "description": "Download and parse roster files from SharePoint",
+  "dependencies": {
+    "chromedriver": "^142.0.3",
+    "selenium-webdriver": "^4.38.0"
+  }
+}

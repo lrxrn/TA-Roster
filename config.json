@@ -1,0 +1,16 @@
+{
+  "roster": {
+    "downloadUrl": "https://cloudmails-my.sharepoint.com/:x:/g/personal/ta_cloudmails_apu_edu_my/EajTbQxu8ahOvTqwanq4R8gBCt0wI_YzHaARpI9tuGB8nQ?download=1",
+    "outputFileName": "Roster.xlsx",
+    "folderName": "roster",
+    "historyFolderName": "history"
+  },
+  "cleanup": {
+    "retentionDays": 60,
+    "retentionMonths": 2
+  },
+  "download": {
+    "timeoutMs": 120000,
+    "headless": true
+  }
+}
