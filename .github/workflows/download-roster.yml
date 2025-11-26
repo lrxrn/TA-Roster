@@ -37,8 +37,8 @@ jobs:
           CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
           npm install chromedriver@latest
       
-      - name: Run download script
-        run: node download.js
+      - name: Run script
+        run: node download-parse.js
         env:
           DISPLAY: ':99'
       
